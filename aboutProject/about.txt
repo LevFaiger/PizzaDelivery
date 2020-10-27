@@ -1,0 +1,8 @@
+1. npm instal
+2. import API calls by Postman from directory aboutProject file name : Pizza Delivery.postman_collection
+3. Run User register or User Create API call
+4. Run User login call
+5. Run Menu get for auth users only
+6. Run Order create
+7. Run User logout
+8. Run Menu get to see the auth error
